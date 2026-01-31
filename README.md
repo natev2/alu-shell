@@ -1,3 +1,5 @@
+## permissions/0-iam_betty
+Switches the current user to `betty`. The script is exactly 2 lines long, executable, and ends with a newline.
 # alu-shell
 
 This repository contains simple shell scripts.
