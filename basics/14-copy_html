@@ -1,6 +1,2 @@
 #!/bin/bash
-shopt -s nullglob
-html_files=(*.html)
-if (( ${#html_files[@]} )); then
-    cp -u "${html_files[@]}" ../
-fi
+shopt -s nullglob; cp -u *.html ../
