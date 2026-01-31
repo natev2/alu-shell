@@ -3,6 +3,19 @@ Switches the current user to `betty`. The script is exactly 2 lines long, execut
 # alu-shell
 
 This repository contains simple shell scripts.
+
+## basics
+- 14-copy_html
+- 15-lets_move
+- 16-clean_emacs
+- 17-tree
+
+## permissions
+- 0-iam_betty: Switches the current user to `betty`. The script is exactly 2 lines long, executable, and ends with a newline.
+- 1-who_am_i
+# alu-shell
+
+This repository contains simple shell scripts.
 - basics/14-copy_html
 - basics/15-lets_move
 - basics/16-clean_emacs
